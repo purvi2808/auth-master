@@ -1,4 +1,5 @@
 # auth-master
+on terminal->
 run python.mange.py createsuperuser 
 </br>username:"username"
 </br>email:"email"
